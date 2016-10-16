@@ -8,4 +8,6 @@
  * HTML
    * Amb CSS
  * XHTML
+ 
+3. He llegit i realitzat totes les pases del tutorial a la web de [Markdown Tutorial](http://www.markdowntutorial.com/) pero poder editar l'arxiu **README.md** a GitHub
 
