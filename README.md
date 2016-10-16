@@ -6,6 +6,6 @@
  * RTF
  * PS (_postscript_)
  * HTML
-  * Amb CSS
+   * Amb CSS
  * XHTML
 
