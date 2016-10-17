@@ -14,3 +14,6 @@
 3. He llegit i realitzat totes les pases del tutorial a la web de [Markdown Tutorial](http://www.markdowntutorial.com/) per poder editar l'arxiu **README.md** a GitHub.
 
 >Gracies a aquesta tasca he pogut aprendre "l'idoma" anomenat _Markdown_. Pero soc conscient de que hi ha molt a aprendre d'aquest codi tal i com diuen a la web: _There are many “extended” implementations of Markdown that support formats like tables, definition lists, footnotes, and more_.
+
+
+**Treball realitzat per: Jorge Navarro Cerdá**
