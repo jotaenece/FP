@@ -4,10 +4,10 @@
 
 2. He realitzat exemples dels diferents _llenguatjes_ que s'han explicat al tema 1, com son:
  * **RTF**
- * PS (_postscript_)
- * HTML
-   * Amb CSS
- * XHTML
+ * **PS** (_postscript_)
+ * **HTML**
+   * Amb **CSS**
+ * **XHTML**
  
 3. He llegit i realitzat totes les pases del tutorial a la web de [Markdown Tutorial](http://www.markdowntutorial.com/) per poder editar l'arxiu **README.md** a GitHub.
 
