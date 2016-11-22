@@ -16,6 +16,15 @@ Lo primero de todo que hemos definido ha sido el comportamiento de nuestro juego
 Así pues definimos el escalado que tendrá el juego en los dispositivos respecto a la version de escritorio.
 
 ####Objetos principales en el juego:
+ 1. Imagen de fondo
+  * "background-image"
+ 2. Panel de control
+  * Datos de la nave
+ 3. Opciones del juego
+  * Información del juego
+ 4. Nave
+  * Objeto móvil del juego
+
 
 
 
