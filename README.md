@@ -10,8 +10,7 @@ Esta tarea vamos a divirla en dos ramas:
 ##Descripción de la Tarea
 
 Para empezar hemos definido el comportamiento de nuestro juego según el tamaño del dispositivo con el que estamos abriendolo:
-
- **meta name="viewport" content="width=device-width, initial-scale=0.75"**
+**meta name="viewport" content="width=device-width, initial-scale=0.75"**
 
 Así pues definimos el escalado que tendrá el juego en los dispositivos respecto a la version de escritorio.
 
