@@ -15,7 +15,8 @@ Lo primero de todo que hemos definido ha sido el comportamiento de nuestro juego
 
 Así pues definimos el escalado que tendrá el juego en los dispositivos respecto a la version de escritorio.
 
-###Objetos principales en el juego:
+####Objetos principales en el juego:
+
 
 
 
