@@ -16,13 +16,13 @@ Lo primero de todo que hemos definido ha sido el comportamiento de nuestro juego
 Así pues definimos el escalado que tendrá el juego en los dispositivos respecto a la version de escritorio.
 
 ####Objetos principales en el juego:
- _1. Imagen de fondo_
+ 1. Imagen de fondo
   * "background-image"
- _2. Panel de control_
+ 2. Panel de control
   * Datos de la nave
- _3. Opciones del juego_
+ 3. Opciones del juego
   * Información del juego
- _4. Nave_
+ 4. Nave
   * Objeto móvil del juego
 
 **1.** Hemos definido la imagen de fondo para que se autoajuste según el tamaño del explorador o de la pantalla. La resolución de la imagen se ajustará automaticamente
