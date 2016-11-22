@@ -11,4 +11,4 @@ Esta tarea vamos a divirla en dos ramas:
 
 
 
-_**Treball realitzat per: Jorge Navarro Cerdá**_
+_**Jorge Navarro Cerdá**_
