@@ -25,7 +25,11 @@ Así pues definimos el escalado que tendrá el juego en los dispositivos respect
  4. Nave
   * Objeto móvil del juego
 
+1. Hemos definido la imagen de fondo para que se autoajuste según el tamaño del explorador o de la pantalla. La resolución de la imagen se ajustará automaticamente
 
+2. El panel de control nos mostrará datos de la nave a tiempo real segun nos vayamos desplazando con la misma en la pantalla. He creado una lista de los diferentes datos a mostrar como son: Velocidad de la nave, Altitud de la nave y Nivel de gasolina.
+
+3. 
 
 
 
