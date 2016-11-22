@@ -29,7 +29,8 @@ Así pues definimos el escalado que tendrá el juego en los dispositivos respect
 
 **2.** El panel de control nos mostrará datos de la nave a tiempo real segun nos vayamos desplazando con la misma en la pantalla. He creado una lista de los diferentes datos a mostrar como son: Velocidad de la nave, Altitud de la nave y Nivel de gasolina.
 
-**3.** Las Opciones del juego están configuradas tambien como una lista en la que, por ahora y mientras no ampliemos a más opciones (que lo haremos en un futuro con SPRITES), aparece los "botones" de:
+**3.** Las Opciones del juego están configuradas tambien como un menu el que, por ahora y mientras no ampliemos a más opciones (que lo haremos en un futuro con SPRITES), aparece los "botones" de:
+
    * PAUSE: En la próxima parte de la práctica esto nos permitira, como la propia palabra indica, pausar el juego.
    * About: Página HTML informátiva sobre el juego, su desarrollo y su creador. También se dessarollará ampliamente en la siguiente parte de la práctica.
    * How to play: Página en la que explicamos las instrucciones del propio juego, como jugar.
