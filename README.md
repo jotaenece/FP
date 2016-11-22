@@ -16,20 +16,20 @@ Lo primero de todo que hemos definido ha sido el comportamiento de nuestro juego
 Así pues definimos el escalado que tendrá el juego en los dispositivos respecto a la version de escritorio.
 
 ####Objetos principales en el juego:
- 1. Imagen de fondo
+ **1. Imagen de fondo**
   * "background-image"
- 2. Panel de control
+ **2. Panel de control**
   * Datos de la nave
- 3. Opciones del juego
+ **3. Opciones del juego**
   * Información del juego
- 4. Nave
+ **4. Nave**
   * Objeto móvil del juego
 
-1. Hemos definido la imagen de fondo para que se autoajuste según el tamaño del explorador o de la pantalla. La resolución de la imagen se ajustará automaticamente
+**1.** Hemos definido la imagen de fondo para que se autoajuste según el tamaño del explorador o de la pantalla. La resolución de la imagen se ajustará automaticamente
 
-2. El panel de control nos mostrará datos de la nave a tiempo real segun nos vayamos desplazando con la misma en la pantalla. He creado una lista de los diferentes datos a mostrar como son: Velocidad de la nave, Altitud de la nave y Nivel de gasolina.
+**2.** El panel de control nos mostrará datos de la nave a tiempo real segun nos vayamos desplazando con la misma en la pantalla. He creado una lista de los diferentes datos a mostrar como son: Velocidad de la nave, Altitud de la nave y Nivel de gasolina.
 
-3. 
+**3.**  
 
 
 
