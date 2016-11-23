@@ -15,7 +15,7 @@ Lo primero de todo que hemos definido ha sido el comportamiento de nuestro juego
 
 Así pues definimos el escalado que tendrá el juego en los dispositivos respecto a la version de escritorio.
 
-####Objetos principales en el juego:
+#####Objetos principales en el juego:
  1. Imagen de fondo
   * "background-image"
  2. Panel de control
@@ -35,6 +35,7 @@ Así pues definimos el escalado que tendrá el juego en los dispositivos respect
    * About: Página HTML informátiva sobre el juego, su desarrollo y su creador. También se dessarollará ampliamente en la siguiente parte de la práctica.
    * How to play: Página en la que explicamos las instrucciones del propio juego, como jugar.
 
+**4.** La nave es el objeto principal del juego y el que en un futuro se moverá en vertical por la pantalla. Hemos definido una imagen de la nave en el centro de la pantalla.
 
 
 
