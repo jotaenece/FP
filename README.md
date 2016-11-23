@@ -35,9 +35,9 @@ Así pues definimos el escalado que tendrá el juego en los dispositivos respect
    * About: Página HTML informátiva sobre el juego, su desarrollo y su creador. También se desarollará ampliamente en la siguiente parte de la práctica.
    * How to play: Página en la que explicamos las instrucciones del propio juego, como jugar.
 
-**4.** La nave es el objeto principal del juego y el que en un futuro se moverá en vertical por la pantalla. Hemos definido una imagen de la nave en el centro de la pantalla.
+**4.** La nave es el objeto principal del juego y se moverá en vertical por la pantalla. Hemos definido una imagen de la nave en el centro de la pantalla.
 
 
 
 
-_**Jorge Navarro Cerdá**_
+####_**Jorge Navarro Cerdá**_
