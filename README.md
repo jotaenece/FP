@@ -40,4 +40,4 @@ Así pues definimos el escalado que tendrá el juego en los dispositivos respect
 
 
 
-####_**Jorge Navarro Cerdá**_
+###_**Jorge Navarro Cerdá**_
