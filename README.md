@@ -10,8 +10,9 @@ He tenido que pensar que cuando el FUEL se terminara debían darse estas situaci
 3. El contador del fuel no debía dar valores negativos Si nos quedamos sin FUEL tenemos 0L
   * if(fuel<0){fuel=0;document.getElementById("onoff").src='img/naveoff.png';}
     
-Para los “window.alert” debía usar ciertos condicionales para que en el mismo instante en el que se diera la situación de que la altura era mayor que 70m, comprobar si la velocidad era mayor que 5m/s lo que produciría la explosión de la nave.
- * sdfgsdfg
+Para los “window.alert” debía usar ciertos condicionales para que en el mismo instante en el que se diera la situación de que la altura era mayor que 70m, comprobar si la velocidad era mayor que 5m/s lo que produciría la explosión de la nave:
+  * Explicado en las lineas de codigo del archivo js.js: 63 a 78 
+ 
 
 
 
