@@ -1,0 +1,14 @@
+body { 
+	font: normal 16px Arial;
+ 	margin: 16px 10%;
+	background-color: rgb(203, 200, 200);
+}
+
+h1 { 
+	font-style: bold;
+	color: rgb(0, 30, 255);	
+}
+
+h3{
+	color: #4BBA32;
+}
