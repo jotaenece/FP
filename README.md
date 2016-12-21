@@ -5,9 +5,11 @@
 He tenido que pensar que cuando el FUEL se terminara debían darse estas situaciones:
 
 1. El motor debía estar apagado, por lo que la imagen de la nave debía ser la NAVEOFF
+  * if (fuel==0){motorOff()}
 2. Al estar con el motor apagado, la nave cae sin posibilidad de remontar el vuelo (“onkeyup”)
 3. El contador del fuel no debía dar valores negativos Si nos quedamos sin FUEL tenemos 0L
-  
+  * if(fuel<0){fuel=0;document.getElementById("onoff").src='img/naveoff.png';}
+    
 **Para los “window.alert” debía usar ciertos condicionales para que en el mismo instante en el que se diera la situación de que la altura era mayor que 70m, comprobar si la velocidad era mayor que 5m/s lo que produciría la explosión de la nave.**
 
 **2.** El panel de control nos mostrará datos de la nave a tiempo real segun nos vayamos desplazando con la misma en la pantalla. He creado una lista de los diferentes datos a mostrar como son: Velocidad de la nave, Altitud de la nave y Nivel de gasolina.
