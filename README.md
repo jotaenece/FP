@@ -1,31 +1,14 @@
-#Tasca 2.3 Projecte Lunar Landing (HTML i CSS)
-
-Esta tarea vamos a divirla en dos ramas:
-
-  1. Indent (Branch: Tasca-2.3-Indent)
-   * En la rama Indent habrá versiones de los archivos HTML y CSS correctamente indentados.
-  2. Minify (Branch: Tasca-2.3-Minify)
-   * En la rama Minify habrá versiones de los archivos HTML y CSS correctamente minificados.
+#Tasca 2.4 Projecte Lunar Landing. Javascript RELEASE
 
 ##Descripción de la Tarea
 
-Lo primero de todo que hemos definido ha sido el comportamiento de nuestro juego según el tamaño del dispositivo con el que estamos abriéndolo:
+He tenido que pensar que cuando el FUEL se terminara debían darse estas situaciones:
 
-**meta name="viewport" content="width=device-width, initial-scale=0.75"**
-
-Así pues definimos el escalado que tendrá el juego en los dispositivos respecto a la version de escritorio.
-
-####Objetos principales:
- 1. Imagen de fondo
-  * "background-image"
- 2. Panel de control
-  * Datos de la nave
- 3. Opciones del juego
-  * Información del juego
- 4. Nave
-  * Objeto móvil del juego
-
-**1.** Hemos definido la imagen de fondo para que se autoajuste según el tamaño del explorador o de la pantalla. La resolución de la imagen se ajustará automaticamente
+1. El motor debía estar apagado, por lo que la imagen de la nave debía ser la NAVEOFF
+2. Al estar con el motor apagado, la nave cae sin posibilidad de remontar el vuelo (“onkeyup”)
+3. El contador del fuel no debía dar valores negativos Si nos quedamos sin FUEL tenemos 0L
+  
+**Para los “window.alert” debía usar ciertos condicionales para que en el mismo instante en el que se diera la situación de que la altura era mayor que 70m, comprobar si la velocidad era mayor que 5m/s lo que produciría la explosión de la nave.**
 
 **2.** El panel de control nos mostrará datos de la nave a tiempo real segun nos vayamos desplazando con la misma en la pantalla. He creado una lista de los diferentes datos a mostrar como son: Velocidad de la nave, Altitud de la nave y Nivel de gasolina.
 
