@@ -18,9 +18,8 @@ Hemos definido dos imagenes, una para cada estado de la nave:
  * naveon.png para cuando la nave está ENCENDIDA
  * Si la nave explota, aparece un "window.alert" para indicar que has perdido la partida al hacer explotar la nave
 
+
+####IMPORTANTE
 **El resto de especificaciones respecto a los comandos utilizados están señalados con comentarios en el archivo javascript: js.js**
-
-**
-
 
 ###_**Jorge Navarro Cerdá**_
